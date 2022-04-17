@@ -1,23 +1,20 @@
 <template>
-  <HeaderComp @changeTitle="ubahText" :text="text" />
+  <NavbarComp />
+  <NewComp />
+  <StatusComp />
 </template>
 
 <script>
-import HeaderComp from '@/components/Header-Comp.vue'
+import NavbarComp from './components/Navbar-Comp.vue'
+import NewComp from './components/New-Comp.vue'
+import StatusComp from './components/Status-Comp.vue'
+
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HeaderComp
-  },
-  data(){
-    return{
-      text: "ini adalah text dari App.vue",
-    }
-  },
-  methods: {
-    ubahText(newText){
-      this.text = newText
-    }
+    NavbarComp,
+    NewComp,
+    StatusComp,
   }
 }
 </script>

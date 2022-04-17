@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "img": "../assets/img-tweet-1.png",
+    "name": "Jhon Vedro",
+    "username": "JhonVedro00",
+    "date": "Apr 12",
+    "status": "Good morning, Guys!",
+    "comments": 92,
+    "stars": 328,
+    "shares": 187
+  },
+  {
+    "id": 2,
+    "img": "../assets/img-tweet-2.png",
+    "name": "Feraldo Jaz",
+    "username": "FeraldoooJaz",
+    "date": "Apr 12",
+    "status": "Sehat selalu yaa, Semua!",
+    "comments": 430,
+    "stars": 872,
+    "shares": "1,360"
+  },
+  {
+    "id": 3,
+    "img": "../assets/img-tweet-3.png",
+    "name": "Jessica Nona",
+    "username": "JessicaNonaaa00",
+    "date": "Apr 11",
+    "status": "Stay safe ya!",
+    "comments": "1,2K",
+    "stars": "3,226",
+    "shares": "2,437"
+  },
+  {
+    "id": 4,
+    "img": "../assets/img-tweet-3.png",
+    "name": "MirachelMa",
+    "username": "MirachelMaaa",
+    "date": "Apr 10",
+    "status": "May Allah bless you",
+    "comments": "3",
+    "stars": "12",
+    "shares": "1"
+  },
+  {
+    "id": 5,
+    "img": "../assets/img-tweet-3.png",
+    "name": "Abraham Ja",
+    "username": "AbrahamJaaa",
+    "date": "Apr 10",
+    "status": "Announcement!",
+    "comments": "18",
+    "stars": "31",
+    "shares": "4"
+  }
+]
